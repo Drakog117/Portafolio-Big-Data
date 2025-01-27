@@ -2,7 +2,7 @@
 Dentro de este repositorio se puede encontrar la recopilacion de lo que yo considero lo mas importante visto en mi certificado de big data.
 
 
-#a. ¿Qué conocimientos, habilidades, actitudes y valores aprendiste?
+# a. ¿Qué conocimientos, habilidades, actitudes y valores aprendiste?
 
 Durante el certificado adquirí y consolidé conocimientos en lenguajes de programación como R y Python, donde estos conocimientos iban dirigidos al procesamiento de datos y su uso mediante distintos modelos de predicción.
 
